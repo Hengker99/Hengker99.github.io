@@ -1,0 +1,21 @@
+html{
+  background-color: lightgreen;
+}
+body {
+    font-size: 10pt;
+}
+.nav{
+  background-color: black;
+  background-size: 1vh;
+  color: white;
+  font-family: monospace;
+}
+pre{
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  border: 1px ghostwhite;
+}
+table{
+  border: 1px solid black;
+}
