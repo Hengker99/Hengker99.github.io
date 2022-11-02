@@ -17,4 +17,4 @@ switch(kelamin){
 }
 console.log(`selamat datang ${ket} ${nama} dari kelas ${kelas}`)
 alert(`selamat datang ${ket} ${nama} dari kelas ${kelas}`)
-greeting.innerHTML = 'selamat datang' + ' ' + ket + ' ' + at + ' ' + it + ' ' + nama + ' ' + kelas + ' ' + 'dari kelas'
+greeting.innerHTML = 'selamat datang' + ' ' + ket + ' ' + at + ' ' + it + ' ' + nama + ' ' + 'dari kelas' + ' ' + kelas
